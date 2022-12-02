@@ -7,7 +7,6 @@ public class Practice {
 
 	public static void main(String[] args) {
 	         String name="30November added";
-                  int w;
                String jay="jaydeep is good automation tester";
 		String name="jaydeep chavan";
 		
