@@ -7,7 +7,7 @@ public class Practice {
 
 	public static void main(String[] args) {
 	
-
+               String jay="jaydeep is good automation tester";
 		String name="jaydeep chavan";
 		
 	char[]array=  name.toCharArray();
