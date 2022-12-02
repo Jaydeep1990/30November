@@ -6,7 +6,7 @@ import java.util.Collections;
 public class Practice {
 
 	public static void main(String[] args) {
-	         int a;
+	         String name="30November added";
                String jay="jaydeep is good automation tester";
 		String name="jaydeep chavan";
 		
